@@ -2,6 +2,6 @@
 <title>Rizqon Sadida
 </title>
 <body>
-<h1>Hello WorldM</h1>
+<h1><?php echo "Hello World";  ?></h1>
 </body>
 </html>
